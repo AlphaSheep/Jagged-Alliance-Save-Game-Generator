@@ -1,0 +1,12 @@
+0..5   : ID
+10..35 : Name
+41..40 : Salary
+42     : Health
+44     : Agility
+45     : Marksmanship
+46     : Wisdom
+64     : Medical
+65     : Mechanical
+66     : Dexterity
+67     : Explosives
+68     : Level
